@@ -1,0 +1,34 @@
+{
+  "Advanced ARC Powercell": {
+    "need": 3,
+    "have": 0
+  },
+  "Agave": {
+    "need": 5,
+    "have": 0
+  },
+  "Alarm Clock": {
+    "need": 7,
+    "have": 0
+  },
+  "Apricot": {
+    "need": 4,
+    "have": 0
+  },
+  "Synthesized Fuel": {
+    "need": 2,
+    "have": 0
+  },
+  "Toaster": {
+    "need": 12,
+    "have": 0
+  },
+  "Very Comfortable Pillow": {
+    "need": 5,
+    "have": 0
+  },
+  "Wires": {
+    "need": 35,
+    "have": 0
+  }
+}
