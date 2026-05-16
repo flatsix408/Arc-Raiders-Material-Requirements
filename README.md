@@ -3,6 +3,9 @@
 A lightweight desktop app for squads to coordinate material sharing in Arc Raider.  
 Each player runs it on their own machine and posts needs/offers to a shared Discord channel.
 
+
+Created with Claude Code
+
 ## Setup
 
 **Requirements:** Python 3.9+
