@@ -38,7 +38,7 @@ python3 main.py
 
 Every squad member can use the same webhook URL — all posts go to the same channel.
 
-## Customising the Material List
+## Customizing the Material List
 
 Click **📋 Materials** to open the editor.  
 Add, remove, or rename items (one per line). Changes take effect immediately.  
