@@ -10,6 +10,10 @@ Each player runs it on their own machine and posts needs/offers to a shared Disc
 ```bash
 pip install requests
 python main.py
+
+Python 3.1x+
+pip3 install requests
+python3 main.py
 ```
 
 ## Usage
